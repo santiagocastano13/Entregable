@@ -1,0 +1,14 @@
+#taskContainer{
+    width: 80%;
+    height: 70vh;
+    background-color: rgb(33, 1, 81);
+    border-radius: 20px;
+    padding: 1rem;
+    overflow-y: scroll;
+    max-height: 300px;
+}
+
+.items{
+    width: 100%;
+    display: flex;
+}

@@ -1,0 +1,24 @@
+#filter{
+    width: 80%;
+    display: flex;
+    margin: 1rem;
+    padding: 2rem;
+    align-items: center;
+}
+
+select{
+    border-radius: 3px;
+    padding: .3rem;
+    font-size: 13px;
+    color: aliceblue;
+    background-color: #242424;
+}
+
+select:hover{
+    cursor: pointer;
+}
+#filterTitle{
+    font-size: 30px;
+    color: aliceblue;
+    margin-right: 2rem;
+}
